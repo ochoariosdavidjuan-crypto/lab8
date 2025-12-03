@@ -1,0 +1,9 @@
+ h1{
+                color: rgb(5, 99, 52); font-size: 35px;
+            }
+            p{
+                color: black; font-family: Arial, Helvetica, sans-serif;
+            }
+            img{
+                border: 2px solid green;
+            }
